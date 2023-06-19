@@ -1,0 +1,24 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  height: 50px;
+  line-height: 50px;
+  border: 2px solid black;
+  background-color: skyblue;
+  cursor: pointer;
+  padding: 0 5px;
+}
+
+p {
+  height: 50px;
+  line-height: 50px;
+  border: 2px solid black;
+  background-color: goldenrod;
+  padding: 0 5px;
+}
